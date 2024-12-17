@@ -20,3 +20,5 @@ yarn-error.log*
 *.tsbuildinfo
 Footer
 Footer
+
+docker
